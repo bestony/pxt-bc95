@@ -1,24 +1,19 @@
 # pxt-bc95
 
+Vorher pxt-calliope-modem laden!!!
 
-
-## TODO
-
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/packages/approval
-
-Read more at https://makecode.microbit.org/packages/build-your-own
-
-## License
-
-
+Dies ist eine Kopie des Originalpaketes für den Calliope Mini https://github.com/calliope-mini/pxt-calliope-bc95
+Bitte die entsprechenden Hinweise dort (Stromversorung, Pins) beachten!
 
 ## Supported targets
 
 * for PXT/microbit
-(The metadata above is needed for package search.)
+* for PXT/calliope
 
+Depends on [pxt-calliope-modem](https://github.com/calliope-mini/pxt-calliope-modem).
+
+Author: Matthias L. Jugel ([@thinkberg](https://twitter.com/thinkberg))
+
+## License
+
+MIT
