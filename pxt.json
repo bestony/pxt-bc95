@@ -1,6 +1,6 @@
 {
     "name": "pxt-bc95",
-    "version": "0.0.1,
+    "version": "0.0.3,
     "description": "",
     "dependencies": {
         "core": "*",
@@ -13,5 +13,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true
+    "public": false
 }
