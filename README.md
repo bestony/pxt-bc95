@@ -1,6 +1,5 @@
 # pxt-bc95
 
-Vorher pxt-calliope-modem laden!!!
 
 Dies ist eine Kopie des Originalpaketes für den Calliope Mini https://github.com/calliope-mini/pxt-calliope-bc95
 Bitte die entsprechenden Hinweise dort (Stromversorung, Pins) beachten!
