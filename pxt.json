@@ -1,11 +1,10 @@
 {
     "name": "pxt-bc95",
-    "version": "0.0.3,
+    "version": "0.0.4,
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "pxt-calliope-modem": "github:calliope-mini/pxt-calliope-modem#v1.0.2"
+        "radio": "*"
     },
     "files": [
         "README.md",
