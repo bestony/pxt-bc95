@@ -1,6 +1,6 @@
 /**
  * Functions for the NB-IoT module BC95.
- * 
+ *
  */
 
 //% weight=2 color=#117447 icon="\uf1d9" block="BC95"

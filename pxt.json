@@ -1,18 +1,18 @@
 {
-    "name": "pxt-bc95",
-    "version": "0.0.4",
-    "description": "",
-    "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "pxt-calliope-modem": "github:mkleinsb/pxt-calliope-modem"
-    },
-    "files": [
-        "README.md",
-        "main.ts"
-    ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "public": false
+  "name": "pxt-bc95",
+  "version": "0.0.4",
+  "description": "",
+  "dependencies": {
+    "core": "*",
+    "radio": "*",
+    "pxt-calliope-modem": "github:mkleinsb/pxt-calliope-modem"
+  },
+  "files": [
+    "README.md",
+    "main.ts"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": false
 }
